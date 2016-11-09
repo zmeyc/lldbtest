@@ -1,0 +1,5 @@
+framework module CLib {
+    umbrella "/Users/user/Zabiyaka/Software/lldbtest/Sources/CLib/include"
+    link framework "CLib"
+    export *
+}

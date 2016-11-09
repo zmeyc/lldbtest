@@ -1,0 +1,4 @@
+module CLib [system] {
+    umbrella header "include/shim.h"
+    export *
+}
